@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   width: 50%;
+   margin: auto;
+   font-family: 'Fredoka', sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    color: rgb(213, 22, 118);
+}
+
+.col{
+    margin-top: 60px;
+    float: left;
+    width: calc(100% / 3);
+    padding: 20px;
+}
+
+
+
+
+.col img {
+    height: 100px;
+}
