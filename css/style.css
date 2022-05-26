@@ -33,3 +33,13 @@ h1{
 .col img {
     height: 100px;
 }
+
+.col2{
+    margin-top: 60px;
+    float: left;
+    width: calc(100% / 3);
+    padding: 20px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
